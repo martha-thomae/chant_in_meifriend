@@ -14,7 +14,7 @@
     <music>
         <facsimile xml:id="m-4e57845f-8555-4122-b53f-ae59303a03a8">
             <surface xml:id="m-63998ad2-df54-472d-afe4-f37bbde5a72e" lrx="757" lry="598">
-               <graphic target="https://raw.githubusercontent.com/ECHOES-from-the-Past/GABCtoMEI/main/MEI_outfiles/canvas_02Square.png"/>
+               <graphic target="https://raw.githubusercontent.com/martha-thomae/chant_in_meifriend/main/canvas_02Square.png"/>
                 <zone xml:id="m-640a4ea5-7581-47cd-88f9-c88632b9419b" ulx="59" uly="50" lrx="700" lry="560"/>
             </surface>
         </facsimile>
